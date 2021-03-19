@@ -62,11 +62,11 @@
 
 Разработаны разноуровневые задания для очного и дистанционного формата проведения мероприятия.
 
-* [Ссылка на задания отборочного этапа](https://disk.yandex.ru/d/6obCbcUGKx74WQ?w=1).
-* [Ссылка на задания по программированию](https://disk.yandex.ru/d/AzBWLAr0_AFDmg?w=1).
-* [Ссылка на задания по моделированию](https://disk.yandex.ru/d/teqzvDy_3QQHJw?w=1).
-* [Ссылка на задания квиддича на квадрокоптерах](https://disk.yandex.ru/d/hq--WyXn0QRcIQ?w=1).
-* [Для оценивания выполнения заданий  разработаны критерии](https://disk.yandex.ru/d/5BUMq2tf1Wz6wA?w=1).
+* [Ссылка на задания отборочного этапа](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%8D%D1%82%D0%B0%D0%BF%D0%B0).
+* [Ссылка на задания по программированию](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E).
+* [Ссылка на задания по моделированию](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E).
+* [Ссылка на задания квиддича на квадрокоптерах](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%8D%D1%82%D0%B0%D0%BF%D0%B0).
+* [Для оценивания выполнения заданий  разработаны критерии](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F).
 
 ## Апробация проекта
 
@@ -83,9 +83,9 @@
 ![Картинка 7](../assets/Hardaton_Quidditch/7.jpg)
 ![Картинка 8](../assets/Hardaton_Quidditch/8.jpg)
 
-Предложенные участниками хардатона [инженерные решения](https://disk.yandex.ru/d/2TbB8SSM4a6jsw?w=1) по разработке захвата и защиты на квадрокоптер:
+Предложенные участниками хардатона [инженерные решения](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F) по разработке захвата и защиты на квадрокоптер:
 
-[Видео](https://disk.yandex.ru/d/6kNI1smfWhWYXA?w=1) о команде и с полётной зоны.
+Видео о команде и с [полётной зоны](https://youtu.be/n5HXb4DhfeM).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6R4tLkZVmcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
