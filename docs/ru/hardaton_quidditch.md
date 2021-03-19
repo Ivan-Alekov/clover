@@ -62,11 +62,11 @@
 
 Разработаны разноуровневые задания для очного и дистанционного формата проведения мероприятия.
 
-* [Ссылка на задания отборочного этапа](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%8D%D1%82%D0%B0%D0%BF%D0%B0).
-* [Ссылка на задания по программированию](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E).
-* [Ссылка на задания по моделированию](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E).
-* [Ссылка на задания квиддича на квадрокоптерах](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%8D%D1%82%D0%B0%D0%BF%D0%B0).
-* [Для оценивания выполнения заданий  разработаны критерии](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F).
+* [Ссылка на задания отборочного этапа](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/setting_the_qualifying_stage).
+* [Ссылка на задания по программированию](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/programming_task).
+* [Ссылка на задания по моделированию](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/modeling_challenge).
+* [Ссылка на задания квиддича на квадрокоптерах](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/final_stage_assignment).
+* [Для оценивания выполнения заданий  разработаны критерии](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/evaluation_criteria).
 
 ## Апробация проекта
 
@@ -83,7 +83,7 @@
 ![Картинка 7](../assets/Hardaton_Quidditch/7.jpg)
 ![Картинка 8](../assets/Hardaton_Quidditch/8.jpg)
 
-Предложенные участниками хардатона [инженерные решения](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F) по разработке захвата и защиты на квадрокоптер:
+Предложенные участниками хардатона [инженерные решения](https://github.com/Ivan-Alekov/clover/tree/Hardaton_Quidditch/docs/assets/Hardaton_Quidditch/docs/engineering_solutions) по разработке захвата и защиты на квадрокоптер:
 
 Видео о команде и с [полётной зоны](https://youtu.be/n5HXb4DhfeM).
 
